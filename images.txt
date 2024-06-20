@@ -6,7 +6,6 @@ redis
 alpine
 mongo
 mysql
-scratch
 surveyking/surveyking
 xhofe/alist:latest
 
