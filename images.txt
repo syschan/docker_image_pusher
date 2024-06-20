@@ -1,13 +1,20 @@
+#指定版本
 nginx:alpine
+
+#latest版本
 redis
 alpine
 mongo
 mysql
 scratch
+surveyking/surveyking
+xhofe/alist:latest
+
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+ghcr.io/open-webui/open-webui:ollama
+
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
-surveyking/surveyking
-open-webui/open-webui:ollama
+
+
