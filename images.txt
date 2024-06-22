@@ -1,19 +1,25 @@
-#指定版本
-nginx:alpine
-
-#latest版本
-redis
+#常用OS
 alpine
+
+#常用db
+redis
 mongo
 mysql
-surveyking/surveyking
-xhofe/alist:latest
 
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
+#常用服务器代理
+nginx:alpine
+
+#CI/CD工具
+gitlab/gitlab-ce
+gitlab/gitlab-runner
+
+#AI大模型
 ghcr.io/open-webui/open-webui:ollama
 
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+#推荐应用
+surveyking/surveyking
 
+#支持指定架构、示例
+--platform=linux/arm64 xiaoyaliu/alist
+xhofe/alist:latest
 
