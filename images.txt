@@ -12,6 +12,7 @@ nginx:alpine
 #CI/CD工具
 gitlab/gitlab-ce
 gitlab/gitlab-runner
+jenkins/jenkins
 
 #AI大模型
 ghcr.io/open-webui/open-webui:ollama
