@@ -1,6 +1,8 @@
+
 #常用OS
 alpine
 ubuntu
+ghcr.io/github-actions/ubuntu:latest
 
 #常用db
 redis
