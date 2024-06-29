@@ -1,5 +1,6 @@
 #常用OS
 alpine
+ubuntu
 
 #常用db
 redis
