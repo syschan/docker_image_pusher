@@ -1,7 +1,7 @@
 
 #常用OS
 alpine
-ubuntu
+#ubuntu
 ghcr.io/github-actions/ubuntu:latest
 
 #常用db
