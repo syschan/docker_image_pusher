@@ -1,6 +1,7 @@
 
 #常用OS
-alpine
+alpine:latest
+golang:alpine
 
 #常用db
 redis
