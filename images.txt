@@ -2,6 +2,7 @@
 #常用OS
 alpine:latest
 golang:alpine
+node:18
 
 #常用db
 redis
