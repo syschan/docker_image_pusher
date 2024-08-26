@@ -3,6 +3,7 @@
 alpine:latest
 golang:alpine
 node:18
+1panel/node:22.2.0
 
 #常用db
 redis
@@ -20,6 +21,7 @@ gitea/act_runner:0.2.10
 
 #建站工具
 1panel/openresty:1.21.4.3-3-3-focal
+
 
 #AI大模型
 ghcr.io/open-webui/open-webui:ollama
