@@ -3,7 +3,6 @@
 alpine:latest
 golang:alpine
 node:18
-1panel/node:22.2.0
 
 #常用db
 redis
