@@ -10,6 +10,7 @@ node:22.2.0
 redis
 mongo
 mysql
+postgres:16.4-alpine
 
 #常用服务器代理
 nginx:alpine
