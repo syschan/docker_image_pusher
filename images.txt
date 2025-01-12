@@ -6,6 +6,7 @@ golang:1.22
 node:18
 node:18.20.3
 node:20
+node:16.20.2
 node:20.14.0
 node:22.2.0
 
