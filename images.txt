@@ -31,6 +31,7 @@ gitea/act_runner:0.2.10
 
 #AI大模型
 ghcr.io/open-webui/open-webui:ollama
+ghcr.io/open-webui/open-webui:main
 
 #推荐应用
 surveyking/surveyking
