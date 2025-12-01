@@ -9,6 +9,7 @@ node:20
 node:16.20.2
 node:20.14.0
 node:22.2.0
+node:alpine
 
 #常用db
 redis
