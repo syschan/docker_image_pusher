@@ -3,6 +3,7 @@
 alpine:latest
 golang:alpine
 golang:1.24.0
+golang:1.24-alpine
 node:18
 node:18.20.3
 node:20
